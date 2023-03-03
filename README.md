@@ -1,7 +1,7 @@
 # ***<div align="center">Hi 👋, I'm Tahir Can Kozan</div>***  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahircankzn&label=Profile%20views&color=0e75b6&style=flat" alt="tahircankzn" /> </p>
+![Profile views counter](https://komarev.com/ghpvc/?username=tahircankzn&&style=flat-square)  
 
 - 🌱 I’m currently learning **Python , C and Unity**
 
