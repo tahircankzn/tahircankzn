@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tahir Can</h1>
-<h3 align="center">A tenacious and passionate developer from Turkey</h3>
+# ***<div align="center">Hi 👋, I'm Tahir Can Kozan</div>***  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahircankzn&label=Profile%20views&color=0e75b6&style=flat" alt="tahircankzn" /> </p>
 
@@ -9,13 +9,20 @@
 
 - 📫 How to reach me [tahircan_kozan@hotmail.com](tahircan_kozan@hotmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tahircan_kozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahircan_kozan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tahir-can-kozan-1b92bb21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tahir-can-kozan-1b92bb21b" height="30" width="40" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/tahircankzn" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tahir-can-kozan-1b92bb21b/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://instagram.com/tahircan_kozan" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-<h3 align="left">Check This Out!</h3>
+## Check This Out!
 <p align="left">
 <a href="https://www.hackerrank.com/@tahircan_kozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tahircan_kozan" height="30" width="40" /></a>  
 </p>
@@ -29,5 +36,10 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" /></a>   
   </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahircankzn&show_icons=true&locale=en" alt="tahircankzn" /></p>
+## Github Stats  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=tahircankzn&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahircankzn&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
 
