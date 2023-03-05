@@ -3,7 +3,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tahircankzn&&style=flat-square)  
 
-- 🌱 I’m currently learning **Python , C and Unity**
+- 🌱 I’m currently learning **Python and C**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/tahircankzn](https://github.com/tahircankzn)
 
