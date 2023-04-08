@@ -44,9 +44,17 @@
   </a> </p>
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=tahircankzn&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=tahircankzn&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=dark&locale=en" align="right" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahircankzn&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahircankzn&hide_border=true&layout=compact&show_icons=true&theme=dark&locale=en" align="left" />  
 
 <br/>  
+
+
+
+
+
+
+
+
 
