@@ -41,7 +41,12 @@
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="75" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" /></a>   
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="75" /></a> 
   </a> </p>
+  
+  
+
+ 
 
 ## Github Stats  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=tahircankzn&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=dark&locale=en" align="right" /></div>  
