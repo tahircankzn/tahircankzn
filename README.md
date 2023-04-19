@@ -3,7 +3,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tahircankzn&&style=flat-square)  
 
-- 🌱 I’m currently learning **Python and C** , also **deep learning**
+- 🌱 I’m currently learning **Python and C** , also **Deep Learning**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/tahircankzn](https://github.com/tahircankzn)
 
