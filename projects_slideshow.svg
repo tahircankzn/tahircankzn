@@ -1,0 +1,26 @@
+<svg width="100%" height="350" viewBox="0 0 3600 350" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <style>
+    .slider {
+      animation: scroll 20s linear infinite;
+    }
+    @keyframes scroll {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-1800px); }
+    }
+  </style>
+
+  <!-- Slider images (duplicate set for infinite effect) -->
+  <g class="slider">
+
+    <!-- ORIGINAL SET -->
+    <image href="projeler/proje1.png" x="0" y="0" width="1200" height="350"/>
+    <image href="projeler/proje2.png" x="1200" y="0" width="1200" height="350"/>
+    <image href="projeler/proje3.png" x="2400" y="0" width="1200" height="350"/>
+
+    <!-- DUPLICATED SET (for smooth seamless loop) -->
+    <image href="projeler/proje1.png" x="3600" y="0" width="1200" height="350"/>
+    <image href="projeler/proje2.png" x="4800" y="0" width="1200" height="350"/>
+    <image href="projeler/proje3.png" x="6000" y="0" width="1200" height="350"/>
+
+  </g>
+</svg>
