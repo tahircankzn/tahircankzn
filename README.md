@@ -56,20 +56,6 @@ Developing high-performance embedded systems, guidance–navigation–control pi
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tahircankzn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahircankzn&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahircankzn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 ## ⚡ Live Activity
 
 <div align="center">
@@ -77,8 +63,6 @@ Developing high-performance embedded systems, guidance–navigation–control pi
 </div>
 
 ---
-
-## ✨ Final Touch
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
