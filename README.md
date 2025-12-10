@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tahircankzn/tahircankzn/main/projects_slideshow.svg" width="100%">
+  <img src="https://github.com/tahircankzn/tahircankzn/blob/main/projects_slideshow.svg" width="100%">
 </div>
 
 ---
