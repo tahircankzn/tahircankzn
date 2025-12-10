@@ -6,12 +6,6 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/tahircankzn/tahircankzn/blob/main/projects_slideshow.svg" width="100%">
-</div>
-
----
-
-<div align="center">
 
 ### ⚡ Aviation • Embedded Systems • AI • Autonomous UAV
 
