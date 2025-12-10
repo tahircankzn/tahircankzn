@@ -5,7 +5,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tahircankzn/tahircankzn/main/projects_slideshow.svg" width="100%">
+</div>
 
+---
 
 <div align="center">
 
