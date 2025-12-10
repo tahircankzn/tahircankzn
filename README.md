@@ -1,6 +1,14 @@
 <!-- Banner -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=1AF7FF&center=true&vCenter=true&width=900&lines=Tahir+Can+Kozan;Mechatronics+Engineer;Aviation+Software+Developer;UAV+Pilot;Autonomous+Systems+%26+AI+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
