@@ -1,48 +1,88 @@
-# ***<div align="center">Hi 👋, I'm Tahir Can Kozan</div>***  
+<!-- Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=1AF7FF&center=true&vCenter=true&width=900&lines=Tahir+Can+Kozan;Mechatronics+Engineer;Aviation+Software+Developer;UAV+Pilot;Autonomous+Systems+%26+AI+Enthusiast" alt="Typing SVG" />
+</div>
+
+---
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=tahircankzn&&style=flat-square)  
 
-- 🌱 I’m currently learning **Python and C** , also **Deep Learning**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at: [https://github.com/tahircankzn](https://github.com/tahircankzn)
+### ⚡ Aviation • Embedded Systems • AI • Autonomous UAV
 
+**Mechatronics Engineer specializing in flight control, autonomous drones, computer vision, and real-time robotics.**  
+Developing high-performance embedded systems, guidance–navigation–control pipelines, and state-of-the-art AI applications.
 
+</div>
+
+---
+
+## 🚀 About Me
+
+- ✈️ Developing autonomous UAV software and flight control algorithms  
+- ⚙️ Embedded systems with **STM32, Nucleo, ESP32, Pixhawk**  
+- 🧠 Deep Learning, Computer Vision, Real-Time AI on **Raspberry Pi 5 & Hailo**  
+- 📡 Robotics communication: MAVLink, DroneKit, ROS  
+- 💻 All my work lives here: **https://github.com/tahircankzn**
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
   
-</div>  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+| Embedded & Control | AI & CV | Software |
+|-------------------|---------|----------|
+| <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,stm32,linux&theme=dark" height="65"/> | <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&theme=dark" height="65"/> | <img src="https://skillicons.dev/icons?i=python,cpp,c,git&theme=dark" height="65"/> |
 
+</div>
 
+---
 
+## 🌐 Tools I Use
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cmake,qt,vscode,clion,github,opencv&theme=dark" height="55"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="75" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" /></a>   
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="75" /></a> 
-  </a> </p>
-  
-  
+---
 
- 
+## 🛰️ Featured Animation
 
-## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=tahircankzn&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=dark&locale=en" align="right" /></div>  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahircankzn&hide_border=true&layout=compact&show_icons=true&theme=dark&locale=en" align="left" />  
+---
 
-<br/>  
+## 📊 GitHub Analytics
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=tahircankzn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahircankzn&theme=tokyonight&hide_border=true" height="170"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahircankzn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
+</div>
 
+---
 
+## ⚡ Live Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahircankzn&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## ✨ Final Touch
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
 
