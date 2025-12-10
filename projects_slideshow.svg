@@ -26,19 +26,19 @@
   <g id="slides" transform="translate(0,0)">
 
     <!-- ORIGINAL SET (0..3599) -->
-    <image href="https://raw.githubusercontent.com/tahircankzn/tahircankzn/main/images/image1.png"
+    <image href="https://github.com/tahircankzn/tahircankzn/blob/main/images/image1.png"
            x="0"    y="0" width="1200" height="350" preserveAspectRatio="xMidYMid slice" />
-    <image href="https://raw.githubusercontent.com/tahircankzn/tahircankzn/main/images/image2.png"
+    <image href="https://github.com/tahircankzn/tahircankzn/blob/main/images/image1.png"
            x="1200" y="0" width="1200" height="350" preserveAspectRatio="xMidYMid slice" />
-    <image href="https://raw.githubusercontent.com/tahircankzn/tahircankzn/main/images/image3.png"
+    <image href="https://github.com/tahircankzn/tahircankzn/blob/main/images/image1.png"
            x="2400" y="0" width="1200" height="350" preserveAspectRatio="xMidYMid slice" />
 
     <!-- DUPLICATE SET (3600..7199) -->
-    <image href="https://raw.githubusercontent.com/tahircankzn/tahircankzn/main/images/image1.png"
+    <image href="https://github.com/tahircankzn/tahircankzn/blob/main/images/image1.png"
            x="3600" y="0" width="1200" height="350" preserveAspectRatio="xMidYMid slice" />
-    <image href="https://raw.githubusercontent.com/tahircankzn/tahircankzn/main/images/image2.png"
+    <image href="https://github.com/tahircankzn/tahircankzn/blob/main/images/image1.png"
            x="4800" y="0" width="1200" height="350" preserveAspectRatio="xMidYMid slice" />
-    <image href="https://raw.githubusercontent.com/tahircankzn/tahircankzn/main/images/image3.png"
+    <image href="https://github.com/tahircankzn/tahircankzn/blob/main/images/image1.png"
            x="6000" y="0" width="1200" height="350" preserveAspectRatio="xMidYMid slice" />
 
   </g>
