@@ -13,9 +13,9 @@
   <g class="slider">
 
     <!-- ORIGINAL SET -->
-    <image href="projeler/proje1.png" x="0" y="0" width="1200" height="350"/>
-    <image href="projeler/proje2.png" x="1200" y="0" width="1200" height="350"/>
-    <image href="projeler/proje3.png" x="2400" y="0" width="1200" height="350"/>
+    <image href="images/image1.png" x="0" y="0" width="1200" height="350"/>
+    <image href="images/image1.png" x="1200" y="0" width="1200" height="350"/>
+    <image href="images/image1.png" x="2400" y="0" width="1200" height="350"/>
 
     <!-- DUPLICATED SET (for smooth seamless loop) -->
     <image href="images/image1.png" x="3600" y="0" width="1200" height="350"/>
