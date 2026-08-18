@@ -1,10 +1,11 @@
 <!-- Banner -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=1AF7FF&center=true&vCenter=true&width=900&lines=Tahir+Can+Kozan;Mechatronics+Engineer;Aviation+Software+Developer;UAV+Pilot;Autonomous+Systems+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=1AF7FF&center=true&vCenter=true&width=900&lines=Tahir+Can+Kozan;Mechatronics+Engineer;UAV+Flight+Software+Developer;UAV+Pilot;GNC+%26+Autonomous+Systems+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,10 +16,10 @@
 
 <div align="center">
 
-### ⚡ Aviation • Embedded Systems • AI • Autonomous UAV
+### ⚡ Flight Software • GNC • Simulation • Autonomous UAV
 
-**Mechatronics Engineer specializing in flight control, autonomous drones, computer vision, and real-time robotics.**  
-Developing high-performance embedded systems, guidance–navigation–control pipelines, and state-of-the-art AI applications.
+**Mechatronics Engineer specializing in flight control, guidance–navigation–control, autonomous UAVs, and flight simulation.**
+Developing flight software, autonomous systems, embedded platforms, and AI-based solutions for unmanned aerial systems.
 
 </div>
 
@@ -26,20 +27,21 @@ Developing high-performance embedded systems, guidance–navigation–control pi
 
 ## 🚀 About Me
 
-- ✈️ Developing autonomous UAV software and flight control algorithms  
-- ⚙️ Embedded systems with **STM32, Nucleo, ESP32, Pixhawk**  
-- 🧠 Deep Learning, Computer Vision, Real-Time AI on **Raspberry Pi 5 & Hailo**  
-- 📡 Robotics communication: MAVLink, DroneKit, ROS  
-- 💻 All my work lives here: **https://github.com/tahircankzn**
+* ✈️ Developing autonomous UAV software, **flight control and GNC algorithms**
+* ⚙️ Embedded systems with **STM32, Nucleo, ESP32, Pixhawk**
+* 🧠 Deep Learning, Computer Vision, and Reinforcement Learning for autonomous systems
+* 🛰️ UAV simulation and development with **ArduPilot, MAVLink, Gazebo, JSBSim & ROS 2**
+* 📐 Flight dynamics, system identification, and control with **MATLAB / Simulink**
+* 💻 All my work lives here: **https://github.com/tahircankzn**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  
-| Embedded & Control | AI & CV | Software |
-|-------------------|---------|----------|
+
+| Embedded & Control                                                                                 | AI & CV                                                                                      | Software                                                                            |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,stm32,linux&theme=dark" height="65"/> | <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&theme=dark" height="65"/> | <img src="https://skillicons.dev/icons?i=python,cpp,c,git&theme=dark" height="65"/> |
 
 </div>
@@ -73,4 +75,3 @@ Developing high-performance embedded systems, guidance–navigation–control pi
 </div>
 
 ---
-
